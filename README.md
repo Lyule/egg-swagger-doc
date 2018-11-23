@@ -1,6 +1,6 @@
 # egg-swagger-doc
 
-应用于eggjs的plugin,可自动生成SwaggerUI。应用启动后访问/swaagger-ui.html可以浏览页面，访问/swagger-doc,获取swaggerjson.
+应用于eggjs的plugin,可自动生成SwaggerUI。应用启动后访问/swagger-ui.html可以浏览页面，访问/swagger-doc,获取swaggerjson.
 
 ## Install
 
